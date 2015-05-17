@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LEDNumberLearning</string>
+
+    <string name="hello_world">Learn Number</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_home">Home</string>
+    <string name="drawer_led">LED Numbers</string>
+    <string name="drawer_result">Learn Results</string>
+</resources>
